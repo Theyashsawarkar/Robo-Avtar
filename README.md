@@ -1,6 +1,6 @@
-# 🤖 Robo-Avatar Generator
+# 🤖 Robo-Avatar
 
-Welcome to the Robo-Avatar Generator! This project is a simple web application that generates unique and colorful robot avatars using the Robohash API. Users can input Name or string, and the application will create a unique avatar for that input.
+Welcome to the Robo-Avatar ! This project is a simple web application that generates unique and colorful robot avatars using the Robohash API. Users can input Name or string, and the application will create a unique avatar for that input.
 
 # 🚀 Getting Started
 
@@ -14,12 +14,11 @@ That's it! You should now see the Robo-Avatar Generator in your browser window.
 
 # 🎉 Usage
 
-Using the Robo-Avatar Generator is simple :
+Using the Robo-Avatar is simple :
 
 - Type in your name or string in the input field 📝
 - Click on the "Generate Avatar" button 🤖
 - The application will generate a unique avatar based on your input 🎨
-- You can also click on the "Download Avatar" button to download the avatar as a PNG file. 💾
 
 # 🛠️ Technologies Used
 
