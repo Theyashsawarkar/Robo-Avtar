@@ -4,31 +4,31 @@ Welcome to the Robo-Avatar Generator! This project is a simple web application t
 
 # 🚀 Getting Started
 
-- To run the project locally, follow these steps:
+To run the project locally, follow these steps:
 
-* Clone the repository to your local machine using git clone :- https://github.com/your-username/robohash-avatar-generator.git
-* Open the project folder in your code editor
-* Open the index.html file in your web browser
+- Clone the repository to your local machine using git clone :- https://github.com/your-username/robohash-avatar-generator.git
+- Open the project folder in your code editor
+- Open the index.html file in your web browser
 
 That's it! You should now see the Robo-Avatar Generator in your browser window.
 
 # 🎉 Usage
 
-- Using the Robo-Avatar Generator is simple:
+Using the Robo-Avatar Generator is simple:
 
-* Type in your name or string in the input field 📝
-* Click on the "Generate Avatar" button 🤖
-* The application will generate a unique avatar based on your input 🎨
-* You can also click on the "Download Avatar" button to download the avatar as a PNG file. 💾
+- Type in your name or string in the input field 📝
+- Click on the "Generate Avatar" button 🤖
+- The application will generate a unique avatar based on your input 🎨
+- You can also click on the "Download Avatar" button to download the avatar as a PNG file. 💾
 
 # 🛠️ Technologies Used
 
-- This project was built using the following technologies:
+This project was built using the following technologies:
 
-* HTML 🌐
-* CSS 🎨
-* JavaScript 🤖
-* Robohash API 🚀
+- HTML 🌐
+- CSS 🎨
+- JavaScript 🤖
+- Robohash API 🚀
 
 # 🤝 Contributing
 
